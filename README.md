@@ -1,4 +1,4 @@
 # hello-world
 Learning how git works
 
-This is my first commit.
+This is my second commit.
